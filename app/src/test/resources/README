@@ -1,0 +1,3 @@
+LOKI_BASE=$(pwd) loki show sample
+
+Password is: test1234
